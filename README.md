@@ -1,2 +1,2 @@
-# alice
+# tech-java
 my first repository
